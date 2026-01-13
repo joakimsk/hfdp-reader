@@ -28,13 +28,13 @@ Silicone tube RS PRO 273-2491 1.5mm ID, 3mm OD seems to fit well.
 
 Tube also fits the AU3 pagoda well.
 
-![DIP RR Sensor variety](media/DIP-RR.jpg)
-![M6 to AU3, pagoda for 1-2mm silicone tube](media/M6-AU3.jpg)
+![DIP RR Sensor variety](media/DIP-RR.jpg | width=100)
+![M6 to AU3, pagoda for 1-2mm silicone tube](media/M6-AU3.jpg | width=100)
 A simple M6 nut with two small O-rings to build out, or encapsulated in epoxy.
-![PC4 to M6, push connector 4mm tube](media/PC4-M6.jpg)
+![PC4 to M6, push connector 4mm tube](media/PC4-M6.jpg | width=100)
 
 The final adapter from 1.5mm ID silicone tube to 4mm PUR tube looks like this:
-![Dohickey adapter](media/dohickey.jpg)
+![Dohickey adapter](media/dohickey.jpg | width=100)
 
 # Resources
 [Read Honeywell Trustability SSC resources](https://automation.honeywell.com/us/en/products/sensing-solutions/sensors/pressure-sensors/board-mount-pressure-amplified/trustability-ssc-series-board-mount-pressure-sensor#resources)
